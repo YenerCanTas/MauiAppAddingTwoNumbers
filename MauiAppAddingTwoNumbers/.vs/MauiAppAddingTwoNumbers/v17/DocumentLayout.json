@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yener\\source\\repos\\MauiAppAddingTwoNumbers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0C5AEE-B52B-40D5-B0C9-4AA4B8B7B117}|MauiAppAddingTwoNumbers\\MauiAppAddingTwoNumbers.csproj|c:\\users\\yener\\source\\repos\\mauiappaddingtwonumbers\\mauiappaddingtwonumbers\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DB0C5AEE-B52B-40D5-B0C9-4AA4B8B7B117}|MauiAppAddingTwoNumbers\\MauiAppAddingTwoNumbers.csproj|solutionrelative:mauiappaddingtwonumbers\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0C5AEE-B52B-40D5-B0C9-4AA4B8B7B117}|MauiAppAddingTwoNumbers\\MauiAppAddingTwoNumbers.csproj|c:\\users\\yener\\source\\repos\\mauiappaddingtwonumbers\\mauiappaddingtwonumbers\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0C5AEE-B52B-40D5-B0C9-4AA4B8B7B117}|MauiAppAddingTwoNumbers\\MauiAppAddingTwoNumbers.csproj|solutionrelative:mauiappaddingtwonumbers\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\yener\\source\\repos\\MauiAppAddingTwoNumbers\\MauiAppAddingTwoNumbers\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MauiAppAddingTwoNumbers\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\yener\\source\\repos\\MauiAppAddingTwoNumbers\\MauiAppAddingTwoNumbers\\MainPage.xaml",
+              "RelativeToolTip": "MauiAppAddingTwoNumbers\\MainPage.xaml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAABwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-11T23:22:27.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\yener\\source\\repos\\MauiAppAddingTwoNumbers\\MauiAppAddingTwoNumbers\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MauiAppAddingTwoNumbers\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\yener\\source\\repos\\MauiAppAddingTwoNumbers\\MauiAppAddingTwoNumbers\\MainPage.xaml.cs",
+              "RelativeToolTip": "MauiAppAddingTwoNumbers\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T23:22:17.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

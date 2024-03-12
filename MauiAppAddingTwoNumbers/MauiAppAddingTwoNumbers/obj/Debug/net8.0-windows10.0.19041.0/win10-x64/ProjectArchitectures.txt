@@ -1,0 +1,1 @@
+C:\Users\yener\source\repos\MauiAppAddingTwoNumbers\MauiAppAddingTwoNumbers\MauiAppAddingTwoNumbers.csproj;x64
